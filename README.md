@@ -1,8 +1,8 @@
-# <center> NLW4 - Trilha NodeJS </center>
+# <div align="center"> NLW4 - Trilha NodeJS </div>
 
 #### <div align="right">- Projeto Finalizado <div>
 
-### <center> Workshop realizado pela equipe Rocketseat abordando conceitos básicos sobre: </center>
+### <div align="center"> Workshop realizado pela equipe Rocketseat abordando conceitos básicos sobre: </div>
 
 #### 1. Nodejs
 #### 2. Rotas de criação e listagem de conteúdo
@@ -13,14 +13,14 @@
 #### 7. Automação de testes
 
 
-## <center> Sumário </center>
+## <div align="center"> Sumário </div>
 <!--ts-->
-   - [Requisitos](#<center>Requisitos</center>)
-   - [Tecnologias utilizadas](#<center>Tecnologias-utilizadas</center>)
-   - [Autor](#<center>Autor</center>)
-   - [Licença](#<center>Licença</center>)
+   - [Requisitos](#<div-align="center">Requisitos</div>)
+   - [Tecnologias utilizadas](#<div-align="center">Tecnologias-utilizadas</div>)
+   - [Autor](#<div-align="center">Autor</div>)
+   - [Licença](#<div-align="center">Licença</div>)
 <!--te-->
-## <center>Requisitos</center>
+## <div align="center">Requisitos</div>
 Para executar a aplicação é necessário instalar algumas ferramentas tais como um editor de códigos para realizar compilação dos mesmos. Nesse projeto foi utilizado o [Visual Studio Code](https://code.visualstudio.com/), [NodeJS](https://nodejs.org/en/) para compilação do código, [Git Bash](https://gitforwindows.org/) para baixar o repositório e baixar todas as dependências necessárias. Para realizar testes foi utilizado o [Insomnia](https://insomnia.rest/download/)
 
 ```bash
@@ -57,7 +57,7 @@ no body:{"email": "email@dominio.com","survey_id":"id do resultado da rota acima
 -http://localhost:3333/sendMail/"id da rota post survey"
 ```
 
-##  <center>Tecnologias utilizadas</center>
+##  <div align="center">Tecnologias utilizadas</div>
 - [HTML](https://www.w3.org/HTML)
 - [CSS](https://www.w3.org/Style/CSS/)
 - [NodeJS](https://nodejs.org/en/)
@@ -70,13 +70,13 @@ no body:{"email": "email@dominio.com","survey_id":"id do resultado da rota acima
 - [Sqlite](https://www.nodenpm.com/sqlite-async/package.html)
 
 
-## <center>Autor</center>
-<center>Atividade desenvolvida no evento NextLevelWeek #4(NLW4) pela equipe <a href="https://rocketseat.com.br/">Rocketseat</a>, realizados por minha pessoa.
+## <div align="center">Autor</div>
+<div>Atividade desenvolvida no evento NextLevelWeek #4(NLW4) pela equipe <a href="https://rocketseat.com.br/">Rocketseat</a>, realizados por minha pessoa.
 Gostou? tem alguma sugestão de melhoria? por favor, entre em contato e ja aproveita e me adiciona.<br>
 <a href="https://www.linkedin.com/in/ricardo-nagatomy-56553254"><img src="https://img.shields.io/badge/-RicardoNaga-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
 <a href="https://app.rocketseat.com.br/me/ricardo-nagatomy-08130"><img src="https://img.shields.io/badge/-Rocketseat-000?style=flat-square&logo=&logoColor=white"></a>
-</center>
+</div>
 
-## <center>Licença</center>
+## <div align="center">Licença</div>
 
-<center> <img src="https://img.shields.io/github/license/Ricnaga/NLW4---NodeJS?style=for-the-badge"/> </center>
+<div align="center"> <img src="https://img.shields.io/github/license/Ricnaga/NLW4---NodeJS?style=for-the-badge"/> </div>
