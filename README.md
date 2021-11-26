@@ -25,10 +25,10 @@ Para executar a aplicação é necessário instalar algumas ferramentas tais com
 
 ```bash
 # Baixe o repositório.
-$ git clone https://github.com/Ricnaga/NLW4---NodeJS.git
+$ git clone https://github.com/Ricnaga/nlw4-nodejs.git
 
 # Acesse a pasta do projeto.
-$ cd NLW4---NodeJS
+$ cd nlw4-nodejs
 
 # Agora que baixou e acessou o repositório, vamos começar a instalação das dependências.
 $ yarn ( caso não utilize o yarn execute apenas npm -i)
